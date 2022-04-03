@@ -1,4 +1,4 @@
-# TBCC-test-task
+# :pencil: TBCC-test-task
 
 ## Выполнил 1 и 2 level
 Для запуска выполните команды
